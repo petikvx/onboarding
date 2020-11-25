@@ -1,0 +1,30 @@
+Configuration MacBook
+
+Chiffrement Disques :
+
+Installation des logiciels :
+
+curl -s 'https://api.macapps.link/en/chrome-iterm-tunnelblick-thunderbird-slack' | sh
+
+Mail : Numéro de série de la machine
+Helpdesk : https://helpdesk.infra.online.net
+Jira : https://jira.infra.online.net
+Confluence : https://confluence.infra.online.net
+Deskpro : deskpro.pv.ocshq.com/
+Booked : https://booked.internal.scaleway.com
+
+NAS : smb://nas-vlq.infra.online.net 
+
+Générateur MDP : https://www.motdepasse.xyz/
+
+VPN : 
+LDAP (Tous les 6 mois Az09_-) : 
+Slack : 
+https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai?hl=fr
+
+https://vault.sec.internal.scaleway.com/
+
+iCloud : 
+
+Code Sack : 
+
